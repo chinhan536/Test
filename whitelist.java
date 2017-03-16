@@ -2,7 +2,6 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.Map;
 
 public class whitelist {
 	public static String removeColon(String x){
