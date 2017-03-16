@@ -1,15 +1,8 @@
-/**
- * @(#)whitelist.java
- *
- * whitelist application
- *
- * @author
- * @version 1.00 2017/3/16
- */
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.Map;
 
 public class whitelist {
 	public static String removeColon(String x){
